@@ -10,6 +10,8 @@
   <img align="left" alt="Alex's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
+<br/><br/>
+
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alxsad&show_icons=true&theme=gotham" alt="alxsad" />
