@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<!--
-**alxsad/alxsad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://twitter.com/alxsad">
+  <img align="left" alt="Alex Davidovich | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/alxsad/">
+  <img align="left" alt="Alex's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://open.spotify.com/user/alex.davidovich">
+  <img align="left" alt="Alex's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+</a>
 
-Here are some ideas to get you started:
+📈 My GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alxsad&show_icons=true&theme=gotham" alt="alxsad" />
