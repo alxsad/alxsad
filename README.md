@@ -6,9 +6,6 @@
 <a href="https://www.linkedin.com/in/alxsad/">
   <img align="left" alt="Alex's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/alex.davidovich">
-  <img align="left" alt="Alex's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
 
 <br/><br/>
 
